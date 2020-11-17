@@ -5,4 +5,4 @@ With this Python script, you can easily convert any image into a cartoon.
   - Edit the **img = cv2.imread("fox.jpg")** line to your photo's name. 
   **Note:** *Your photo should be in the same folder as your .py file*
 
-Tutorial available on our *Instagram* page: https://www.instagram.com/p/CHe1PTHJbE9/
+Tutorial available on my *Instagram* page: https://www.instagram.com/p/CHe1PTHJbE9/
